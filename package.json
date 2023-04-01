@@ -1,0 +1,12 @@
+{
+  "name": "discord-bot-starter",
+  "version": "1.0.0",
+  "description": "Framework for quickly building a Discord bot with slash commands",
+  "main": "discord-bot.ts",
+  "repository": "git@github.com:jerryyf/discord-bot-starter.git",
+  "author": "Jerry <jerryyf@pm.me>",
+  "license": "GPL-3.0-or-later",
+  "dependencies": {
+    "discord.js": "^14.8.0"
+  }
+}
