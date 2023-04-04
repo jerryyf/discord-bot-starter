@@ -5,6 +5,6 @@ module.exports = {
 		.setName('cats')
 		.setDescription('Gets ready for some cats'),
 	async execute(interaction) {
-		await interaction.reply('Sure! Yu have 2 cats.');
+		await interaction.reply('Sure! You have 2 cats.');
 	},
 };
